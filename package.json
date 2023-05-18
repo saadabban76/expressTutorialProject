@@ -1,0 +1,17 @@
+{
+  "name": "expresstutorial",
+  "version": "1.0.0",
+  "description": "the project created while learning express for the first time on 17/05/2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express-handlebars": "^7.0.7"
+  }
+}
