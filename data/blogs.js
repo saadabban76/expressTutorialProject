@@ -6,17 +6,17 @@
         },
         {
             title: "how to learn React",
-            content: "by building many react projects",
+            content: "by building many React projects",
             slug:'react-learn'
         },
         {
             title: "how to learn MongoDB",
-            content: "by building many mongoDb projects",
+            content: "by building many MongoDb projects",
             slug:'mongodb-learn'
         },
         {
             title: "how to learn NodeJs",
-            content: "by building many nodeJs projects",
+            content: "by building many NodeJs projects",
             slug:'nodejs-learn'
         }
     ]
